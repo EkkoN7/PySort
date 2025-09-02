@@ -6,7 +6,7 @@
  |_|    \__, |____/ \___/|_|   \__|
         |___/     
 ```
-**PySort** is a simple and efficient Python script that automatically organizes your files, transforming a messy folder into a clean, well-structured directory. 
+PySort is a simple and efficient Python script that automatically organizes your files, transforming a messy folder into a clean, well-structured directory. 
 It's specifically designed for common dumping grounds like the Downloads folder, helping you reclaim your digital workspace with zero effort.
 -----
 
